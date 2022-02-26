@@ -7,7 +7,7 @@ machine learning algorithms such as Decision trees and Random Forest.
 ## Dataset
 The dataset consists of 1 year of historical transactional data and fraud flags. Dataset contains following columns:
 
-transactionTime	 - The time the transaction was requested.
+* transactionTime - The time the transaction was requested.
 eventId - 	A unique identifying string for this transaction
 accountNumber	 - The account number which makes the transaction
 merchantId	- A unique identifying string for this merchant
